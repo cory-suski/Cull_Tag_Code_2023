@@ -705,7 +705,7 @@ ggp+ theme_classic(base_size = 18) +
   theme(axis.text.y = element_text(face = "bold")) +
   theme(legend.title = element_blank()) +
   theme(legend.position = "top") +
-  labs(y = "Total Length (mm)", x = "Sample Trip")
+  labs(y = "Total Length (mm)", x = "Collection Group")
 
 #Comparison Graphs
 # Removal of livewell fin injury scores for comparison with sample group
